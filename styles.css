@@ -1,0 +1,16 @@
+h1:hover{
+color: brown;
+}
+h1{
+    color: aquamarine;
+}
+a{
+    color: black;
+}
+a:hover,
+a{
+    color: blanchedalmond;
+}
+a:focus{
+    color: blueviolet;
+}
